@@ -1,0 +1,1 @@
+function disco(){prompt('ciao'); var eta = prompt('quanti anni hai?'); if ( eta < 18 )   alert('sei troppo piccolo');else   alert('entra');}
